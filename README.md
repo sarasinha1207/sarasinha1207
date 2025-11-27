@@ -2,12 +2,11 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space.
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
@@ -28,18 +27,19 @@
       <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="55" height="55"/> </a>
     </p>
 
-### 📊 Github Stats
-<a href='https://github.com/sarasinha1207/github-stats-transparent'>
+
+<h2 align="left"> 📊 Github Stats</h2>
 
 ![sara's github stats](https://github-readme-stats.vercel.app/api?username=sarasinha1207&hide=["issues"]&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarasinha1207&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarasinha1207&theme=github_dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasinha1207&show_icons=true&locale=en&layout=compact" alt="sarasinha1207" /></p>
    
----
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left"> Connect with me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) 
-[![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) 
-[![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) 
-[![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+<p align="center">
+<a href="https://github.com/sarasinha1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sarasinha1207" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-sinha-547a58369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-sinha-547a58369/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sara_sketch.scale?igsh=YjAxaDk5cnZtbW9q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sara_sketch.scale?igsh=YjAxaDk5cnZtbW9q" height="30" width="40" /></a>
+<a href="https://discord.gg/saracacontributor_49911_35831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saracacontributor_49911_35831" height="30" width="40" /></a>
+</p>
