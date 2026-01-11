@@ -1,5 +1,16 @@
 # Hi there! I'm Sara Sinha<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
+
+<div align="center">
+  
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Building+the+future+with+AI+%26+Web+Dev;Turning+ideas+into+reality+💡;Let's+create+something+amazing!" alt="Typing SVG" />
+
+</div>
+
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space.
@@ -43,3 +54,6 @@
 <a href="https://instagram.com/https://www.instagram.com/sara_sketch.scale?igsh=YjAxaDk5cnZtbW9q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sara_sketch.scale?igsh=YjAxaDk5cnZtbW9q" height="30" width="40" /></a>
 <a href="https://discord.gg/saracacontributor_49911_35831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saracacontributor_49911_35831" height="30" width="40" /></a>
 </p>
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sarasinha1207&label=Profile+Views&color=FF6B6B&style=for-the-badge)](https://github.com/sarasinha1207)
